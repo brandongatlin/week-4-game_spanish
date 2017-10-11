@@ -1,2 +1,2 @@
-# week-4-game_spanish
-shopping game in Spanish
+# week-4-game
+crystal game
